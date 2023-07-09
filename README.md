@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sk3l3dor
+- 👋 Hi, I’m @Rohit
 - 👀 I’m interested in WEB -> DEVELOPMENT 
-- 🌱 I’m currently learning FullStack Dev
+- 🌱 I’m currently learning FullStack Development Of M.E.R.N Aplications
 - 💞️ I’m looking to collaborate on any open Source 
 - 📫 You can find me on TWITTER @dev_r96
 
